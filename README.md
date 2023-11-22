@@ -11,8 +11,8 @@ Libraries to be installed - openai, langchain, streamlit, YoutubeLoader.
 These can be installed using the command - 'pip install <library_name>' at the command prompt.
 
 **Key Features and How to Use:**
-Firstly, Run the streamlit app by using the following command - streamlit run app.py. 
-You can ask questions about PDFs and YouTube videos, and our chatbot will provide answers. It's a simple way to get information for your projects!
+Firstly, Run the streamlit app by using the following command - streamlit run app.py. Click on the link and get directed to the page. 
+First paste a link of a youtube video about your project or upload a pdf. Provide the required API KEY and click submit. You can now ask questions about PDFs and YouTube videos, and our chatbot will provide answers. It's a simple way to get information from the projects!
 
 **Future Plans for the Project:**
-Right now, my project is a basic LangChain-powered tool shown on Streamlit. But in the future, I hope to create a complete Project Hub website with an AI ChatBot. This chatbot can answer questions about any project on the website. Just ask your questions, and it will assist you!.
+Right now, my project is a basic LangChain-powered tool shown on Streamlit. But in the future, I hope to create a complete Project Hub website with an AI ChatBot. This chatbot can take any link (github repository, video links etc) or file (pdf, word etc) as input from the website. It can then answer questions of users. Just ask your questions, and it will assist you!.
